@@ -21,7 +21,7 @@ app.use(cookieParser())
 
 // cors => cross origin resource sharing
 app.use(cors({
-    origin: ["https://elearning-client-ecru.vercel.app"],
+    origin: ["https://me-online-college.vercel.app"],
     credentials: true,
 }));
 
